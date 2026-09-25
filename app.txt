@@ -7,3 +7,4 @@ typo fix
 feature A done
 feature A
 typo fix
+feature A done
